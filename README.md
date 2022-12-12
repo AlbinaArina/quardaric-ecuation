@@ -1,0 +1,1 @@
+# quardaric-ecuation
